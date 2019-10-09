@@ -1,5 +1,5 @@
 # ImageClassifierUdacity
-In this project, you'll train an image classifier to recognize different species of flowers.
+In this project, we trained an image classifier to recognize different species of flowers.
 
 
 ## Dataset 
